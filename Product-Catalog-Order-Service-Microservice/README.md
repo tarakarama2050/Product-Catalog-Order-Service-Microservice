@@ -25,20 +25,6 @@ This project demonstrates a microservices architecture using Spring Boot, featur
 - **Exception Handling**: Global exception handlers with proper error responses
 - **Sample Data**: Pre-loaded sample products
 
-## Prerequisites
-
-- Java 17 or higher
-- Maven 3.6 or higher
-- IntelliJ IDEA (recommended)
-
-## How to Run in IntelliJ IDEA
-
-### Import Project
-1. Open IntelliJ IDEA
-2. Select "Open or Import"
-3. Choose the root folder containing this project
-4. Select "Import project from external model" > "Maven"
-5. Click "Next" and "Finish"
 
 ### Run Services
 
